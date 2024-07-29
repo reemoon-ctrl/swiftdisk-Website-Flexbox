@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    
+    
+    
+    
+    
+}
+.title-bar{
+    
+    align-items: center;
+    
+    
+    
+}
+
+.link-bar{
+    flex-basis: 2rem;
+    
+    
+    align-self: center;
+    
+}
+.fword{
+    color:rgb(37, 187, 37);
+}

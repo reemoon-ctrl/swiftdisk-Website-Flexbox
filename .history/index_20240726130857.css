@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    
+}
+.title-bar{
+    display: flex; 
+    align-items: center;
+    justify-content:space-around;
+    
+    
+}
+
+.link-bar{
+    display: flex;
+    align-self: center;
+    flex-basis: 2;
+}
+.fword{
+    color:rgb(37, 187, 37);
+}

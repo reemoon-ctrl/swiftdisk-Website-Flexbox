@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content:space-between ;
+    
+    
+    
+    
+}
+.title-bar{
+    align-items: center;
+    flex-grow: 1;
+    display: flex;
+    
+    
+}
+.title-bar h1{
+    display:inline-block;
+}
+
+.link-bar{
+    
+    flex-grow:1 ;
+    align-self: center;
+    display: flex;
+    justify-content:space-around ;
+    
+}
+.fword{
+    color:rgb(37, 187, 37);
+}

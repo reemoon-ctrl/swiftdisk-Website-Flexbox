@@ -1,0 +1,10 @@
+@media screen and (max-width:500px){
+    .nav-bar{
+        flex-wrap: wrap;
+        height:140px;
+    }
+    .title-bar h1{
+        
+    }
+
+}

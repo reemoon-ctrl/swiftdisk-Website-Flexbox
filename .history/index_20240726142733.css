@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content:space-between ;
+    padding: 10px 20px;
+
+    
+    
+    
+    
+}
+.title-bar{
+    align-items: center;
+    flex-grow: 1;
+    display: flex;
+    gap:.5rem;
+    
+    
+}
+.title-bar h1{
+    display:inline-block;
+}
+
+.link-bar{
+    
+    /* flex-grow:1 ; */
+    align-self: center;
+    display: flex;  
+}
+.link-bar a{
+    padding: 10px 20px;
+}
+.fword{
+    color:rgb(37, 187, 37);
+}
+.show-case{
+   height:100hv;
+back: #000000 url('img/home/showcase.jpg') no-repeat center center/cover ;
+}

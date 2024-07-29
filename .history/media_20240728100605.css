@@ -1,0 +1,29 @@
+@media screen and (max-width:500px){
+    .nav-bar{
+        flex-direction: column;
+        height:140px;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .hd-content{
+        padding-top: 15rem;
+    }
+    .hd-content h1{
+        font-size: 1.5rem;
+    }
+    .hd-content p{
+        font-size: .7rem;
+        padding-top: .8rem;
+        padding-bottom: .8rem;
+    }
+    .about-section ul{
+        flex-direction: column;
+    }
+    .solutions{
+        flex-direction: column;
+    }
+    .solutions .img{
+        width:10%;}
+
+}

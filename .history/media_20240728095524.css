@@ -1,0 +1,8 @@
+@media screen and (max-width:500px){
+    .nav-bar{
+        text-align: center;
+        flex-wrap: wrap;
+        height:140px;
+    }
+
+}
