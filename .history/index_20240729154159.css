@@ -23,7 +23,6 @@ h1,h2{
     top: 0px;
     height:70px;
     width:100vw;
-    z-index: 100;
     
 }
 .title-bar{
@@ -78,11 +77,10 @@ h1,h2{
     top:0;
     width: 100%;
     height:100%;
-    z-index: 1;
     
 }
-.show-case .hd-content {
-    position: relative;
+.show-case .nav-bar,.show-case .hd-content {
+    
     z-index: 10;
 }
 .hd-content{

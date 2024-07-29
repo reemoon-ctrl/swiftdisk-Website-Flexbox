@@ -81,8 +81,8 @@ h1,h2{
     z-index: 1;
     
 }
-.show-case .hd-content {
-    position: relative;
+.show-case .nav-bar,.show-case .hd-content {
+    
     z-index: 10;
 }
 .hd-content{
